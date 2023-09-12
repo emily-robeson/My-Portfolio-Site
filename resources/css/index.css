@@ -1,0 +1,75 @@
+body {
+    font-family: 'Sulphur Point', sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(27, 27, 27);
+    opacity: 0.9;
+    align-content: center;
+    }
+
+    /*background-color: rgb(116, 117, 145);*/
+    /*font-family: 'Sulphur Point', sans-serif;*/
+
+.center {
+    position: absolute;
+    left: 33%;
+}
+
+    
+.nameplate {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 900;
+    padding-left: 10px;
+    
+}
+
+header {
+    height: 200px;
+    
+    }
+
+.profile_pic {
+    padding-left: 280px;
+    
+}
+
+.contact_icon {
+    padding-top: 8px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.skill_icon {
+    padding-top: 10px;
+}
+
+.navigation {
+    right: 0;
+    top: 0;
+    padding-right: 10px;
+    padding-top: 10px;
+    position: fixed;
+}
+
+h2 {
+    text-align: left;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    background-size: cover;
+    padding: 5px;
+}
+
+h4 {
+    text-align: center;
+}
+
+#contact {
+    left: 50%;
+}
